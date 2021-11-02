@@ -11,7 +11,7 @@ Currently, in search of a job, I am looking for a place where I can learn new sk
 
 - 📧 Reach me via **afraim.zahangir@gmail.com**
 
-- ⚡ Fun fact **I like to teach others what I know as I believe "We grow together"**
+- ⚡ Fun fact **I like to teach others what I know as I believe "Together, We grow "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
