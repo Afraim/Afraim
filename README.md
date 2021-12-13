@@ -7,7 +7,7 @@ Currently, in search of a job, I am looking for a place where I can learn new sk
 
 - 🔭 I’m currently working on **"Pencil"** an Android Social Media App
 
-- 👨‍💻 Visit my Website <b>http://afraim.unaux.com/</b>
+- 👨‍💻 Visit my Website <b>https://afraim.github.io/Afraim-Zahangir/index.html</b>
 
 - 📧 Reach me via **afraim.zahangir@gmail.com**
 
