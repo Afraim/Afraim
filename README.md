@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md. Afraim Bin Zahangir</h1>
 <h3 align="justify">Currently studying Computer Science and Engineering (CSE) at the University of Liberal Arts Bangladesh, Dhanmondi, Dhaka (ULAB). 
 
-With interests in Application Development, Robotics, and Automation based projects, my achievements range from electronic projects to Sci-Fi story writing.
+With interests in Application Development, Game Development, Robotics, and Automation based projects, my achievements range from Electronic Projects to Sci-Fi Story Writing.
 
-Currently, in search of a job, I am looking for a place where I can learn new skills and through which I will be able to find my true potential.</h3>
+Currently, I am searching my true passion and I am liking the field of Teaching. I like to guide people on the path that I have taken.</h3>
 
-- 🔭 I’m currently working on **"Pencil"** an Android Social Media App
+- 🔭 I’m currently working on **"Water Advanture of Tory the Turtle"** the HTML5 video game (https://afraim.itch.io/underwater-adventure-of-tory-the-turtle)
+
+- 🔭 I’m have worked on **"Pencil"** an Android Social Media App (currently on hold)
 
 - 👨‍💻 Visit my Website <b>https://afraim.github.io/Afraim-Zahangir/index.html</b>
 
