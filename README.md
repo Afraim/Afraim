@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Afraim Bin Zahangir</h1>
-<h2 align="center"><b>Teacher Leader, Timedoor Academy Bangladesh</b></h2>
-<h3 align="justify">Fresh Graduate from the Department of Computer Science and Engineering (CSE) at the University of Liberal Arts Bangladesh, Beribad, Dhaka (ULAB). 
+<h2 align="center"><b>💼Branch Teacher Leader, Timedoor Academy Bangladesh</b></h2>
+<h2 align="center"><b>🎓MSCSE in Data Science at United International University (UIU), Shatarkul, Dhaka</b></h2>
+<h3 align="justify">🎓Graduate from the Department of Computer Science and Engineering (CSE) at the University of Liberal Arts Bangladesh, Beribad, Dhaka (ULAB). </h3>
 
-With interests in Application Development, Game Development, Robotics, and Automation based projects, my achievements range from Electronic Projects to Sci-Fi Story Writing.
+<h3 align="justify">With interests in Application Development, Game Development, Robotics, and Automation based projects, my achievements range from Electronic Projects to Sci-Fi Story Writing.
 
 Currently, I am searching my true passion and I am liking the field of Teaching. I like to guide people on the path that I have taken.</h3>
 
