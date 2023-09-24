@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Md. Afraim Bin Zahangir</h1>
-<h2 align="center"><b>💼Branch Teacher Leader, Timedoor Academy Bangladesh</b></h2>
-<h2 align="center"><b>🎓MSCSE in Data Science from United International University (UIU), Shatarkul, Dhaka</b></h2>
-<h3 align="justify">🎓Graduate from the Department of Computer Science and Engineering (CSE) at the University of Liberal Arts Bangladesh, Beribad, Dhaka (ULAB). </h3>
+# Hi 👋, I'm Md. Afraim Bin Zahangir
+## 💼 Branch Teacher Leader, Timedoor Academy Bangladesh
+## 💼 Lecturer, Department of CSE, United College of Aviation Science and Management
+### 🎓 MSCSE in Data Science from United International University (UIU), Shatarkul, Dhaka
+### 🎓 Graduate from the Department of Computer Science and Engineering (CSE) at the University of Liberal Arts Bangladesh, Beribad, Dhaka (ULAB).
 
-<h3 align="justify">With interests in Application Development, Game Development, Robotics, and Automation based projects, my achievements range from Electronic Projects to Sci-Fi Story Writing.
+#### With interests in Application Development, Game Development, Robotics, and Automation-based projects, my achievements range from Microcontroller based Electronic Projects to Sci-Fi Story Writing.
 
-Currently, I am searching my true passion and I am liking the field of Teaching. I like to guide people on the path that I have taken.</h3>
+Currently, I am searching for my true passion, and I am liking the field of Teaching. I like to guide people on the path that I have taken.
 
 - 🔭 I have worked on **"Water Advanture of Tory the Turtle"** the HTML5 video game (https://afraim.itch.io/underwater-adventure-of-tory-the-turtle)
 
 - 🔭 I have worked on **"Pencil"** an Android Social Media App (currently on hold)
 
-- 👨‍💻 Visit my Website <b>https://afraim.github.io/Afraim-Zahangir/index.html</b>
+- 👨‍💻 Visit my Website <b>[https://afraim.github.io/Afraim-Zahangir/index.html](https://afraim.github.io/Afraim-Zahangir/index.html)</b>
 
 - 📧 Reach me via **afraim.zahangir@gmail.com**
 
