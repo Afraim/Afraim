@@ -1,12 +1,21 @@
 <h1 align="center">Hi, I'm Md. Afraim Bin Zahangir 👋</h1>
 
-<h2 align="center"><b>💼 Branch Teacher Leader, Timedoor Academy Bangladesh</b></h2>
+<h2 align="center"><b>💼 Founder, Z-TechX</b></h2>
+
+<h2 align="center"><b>💼 Teacher, GreenGems International School</b></h2>
+
+<h2 align="center">💼 Former Branch Teacher Leader, Timedoor Academy Bangladesh</h2>
+
+<h2 align="center">💼 Former Lecturer, United College of Aviation Science and Management</h2>
+
+<h2 align="center">💼 Former Teaching Assistant, ULAB Department of Computer Science and Engineering.</h2>
+
 
 <h2 align="center"><b>🎓 MSCSE in Data Science from United International University (UIU), Shatarkul, Dhaka</b></h2>
 
 <h3 align="center">🎓 Graduate from the Department of Computer Science and Engineering (CSE) at the University of Liberal Arts Bangladesh, Beribad, Dhaka (ULAB).</h3>
 
-<h3 align="center">Passionate about Application Development, Game Development, Robotics, and Automation projects. My achievements range from Electronic Projects to Sci-Fi Story Writing.</h3>
+<h3 align="center">Passionate about Teacher, Application Development, Game Development, Robotics, and Automation projects. My achievements range from Electronic Projects to Sci-Fi Story Writing.</h3>
 
 <h3 align="center">I'm on a journey to discover my true passion, and I've found a love for teaching. I enjoy guiding others along the path I've taken.</h3>
 
@@ -15,7 +24,7 @@
 
 - 🔭 I have worked on **"Pencil"** an Android Social Media App (currently on hold)
 
-- 👨‍💻 Visit my Website <b>[https://afraim.github.io/Afraim-Zahangir/index.html](https://afraim.github.io/Afraim-Zahangir/index.html)</b>
+- 👨‍💻 Visit my Website <b>[[https://afraim.github.io/Afraim-Zahangir/index.html]([https://afraim.github.io/Afraim-Zahangir/index.html](https://afraim.github.io/AfraimZahangir/))](https://afraim.github.io/AfraimZahangir/)</b>
 
 - ⚡ Fun fact **I like to teach others what I know as I believe "Together, We grow "**
 
