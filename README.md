@@ -2,7 +2,7 @@
 
 <h2 align="center"><b>💼 Founder, Z-TechX</b></h2>
 
-<h2 align="center"><b>💼 Teacher, GreenGems International School</b></h2>
+<h2 align="center"><b>💼 Former Teacher, GreenGems International School</b></h2>
 
 <h2 align="center">💼 Former Branch Teacher Leader, Timedoor Academy Bangladesh</h2>
 
@@ -15,7 +15,7 @@
 
 <h3 align="center">🎓 Graduate from the Department of Computer Science and Engineering (CSE) at the University of Liberal Arts Bangladesh, Beribad, Dhaka (ULAB).</h3>
 
-<h3 align="center">Passionate about Teacher, Application Development, Game Development, Robotics, and Automation projects. My achievements range from Electronic Projects to Sci-Fi Story Writing.</h3>
+<h3 align="center">Passionate about Teaching, Application Development, Game Development, Robotics, and Automation projects. My achievements range from Electronic Projects to Sci-Fi Story Writing.</h3>
 
 <h3 align="center">I'm on a journey to discover my true passion, and I've found a love for teaching. I enjoy guiding others along the path I've taken.</h3>
 
