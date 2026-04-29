@@ -2,9 +2,9 @@
 
 ---
 
-<h2 align="center"><b>💼 Full Stack Developer, AIZ Solutions</b></h2>
+<h2 align="center"><b>💼 Founder, Z-TechX </b></h2>
 
-<h3 align="center"><b>💼 Founder, Z-TechX</b></h3>
+<h3 align="center"><b>💼 Former Full Stack Developer, AIZ Solutions</b></h3>
 
 <h3 align="center"><b>💼 Former Teacher, GreenGems International School</b></h3>
 
